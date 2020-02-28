@@ -8,7 +8,7 @@ PHP Terminal Emulator
 
 This is designed to be a stand-alone Terminal Emulator useful for when you
 don't have ssh access.
-I working to use this in a browser window.
+I am working to use this in a browser window.
 
 Installation
 ------------
